@@ -1,0 +1,29 @@
+{
+  "name": "platform-frontend",
+  "version": "1.0.0",
+  "author": "Abhinav Reddy",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "axios": "^1.6.2",
+    "chart.js": "^4.5.1",
+    "lucide-react": "^0.563.0",
+    "postcss": "^8.5.6",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
